@@ -1,0 +1,11 @@
+# ignore pngs
+*.png
+
+# ignore txt
+*.txt
+
+# ignore pdfs
+*.pdf
+
+# ignore files
+*.zip

@@ -9,3 +9,10 @@
 
 # ignore files
 *.zip
+
+#ignore visual studio junk
+*.suo
+*.exe
+*/Debug
+*/.vs
+*.obj

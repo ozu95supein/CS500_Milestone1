@@ -7,7 +7,7 @@ int main(int argc, char ** argv)
     const int WIDTH  = 1280;
     const int HEIGHT = 720;
 
-    sf::RenderWindow window(sf::VideoMode(WIDTH, HEIGHT), "SFML works!");
+    sf::RenderWindow window(sf::VideoMode(WIDTH, HEIGHT), "Assignment 1");
 
     FrameBuffer::Init(WIDTH, HEIGHT);
 

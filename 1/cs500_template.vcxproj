@@ -92,6 +92,11 @@
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Materials.h" />
+    <ClInclude Include="Primitives.h" />
+    <ClInclude Include="RaycastingObjects.h" />
+    <ClInclude Include="Scene.h" />
+    <ClInclude Include="SceneParser.h" />
     <ClInclude Include="src\FrameBuffer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
